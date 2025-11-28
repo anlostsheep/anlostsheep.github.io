@@ -1,0 +1,48 @@
+:root {
+  /* GitHub Soft Dark 风格配色 */
+  --color-bg-light: #1c1c1e;
+  --color-bg-dark: #0d1117;
+  --color-bg-gray: #161b22;
+  --color-bg-card: #161b22;
+  --color-text-primary: #e6edf3;
+  --color-text-secondary: #8b949e;
+  --color-accent: #0a84ff;
+  --color-accent-hover: #409cff;
+
+  /* 间距 */
+  --spacing-xs: 8px;
+  --spacing-sm: 16px;
+  --spacing-md: 24px;
+  --spacing-lg: 48px;
+  --spacing-xl: 80px;
+  --spacing-2xl: 120px;
+
+  /* 字体 */
+  --font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  --font-size-xs: 14px;
+  --font-size-sm: 17px;
+  --font-size-md: 21px;
+  --font-size-lg: 32px;
+  --font-size-xl: 48px;
+  --font-size-2xl: 64px;
+  --font-size-hero: 80px;
+
+  /* 圆角 */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 18px;
+
+  /* 阴影 */
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.08);
+  --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.12);
+  --shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.16);
+
+  /* 过渡 */
+  --transition-fast: 0.2s ease;
+  --transition-normal: 0.3s ease;
+  --transition-slow: 0.5s ease;
+
+  /* 毛玻璃效果 */
+  --backdrop-blur: blur(20px);
+  --backdrop-opacity: 0.8;
+}

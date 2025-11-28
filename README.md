@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+# anlostsheep.github.io
 
-You can use the [editor on GitHub](https://github.com/anlostsheep/anlostsheep.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+> lostsheep 的个人主页 - Hackintosh 爱好者 & 开发者
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 🚀 技术栈
 
-### Markdown
+- **框架**: Vue 3 + Vite
+- **样式**: 纯 CSS（苹果风格设计）
+- **部署**: GitHub Pages (自动部署)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 📦 本地开发
 
-```markdown
-Syntax highlighted code block
+```bash
+# 安装依赖
+npm install
 
-# Header 1
-## Header 2
-### Header 3
+# 启动开发服务器
+npm run dev
 
-- Bulleted
-- List
+# 构建生产版本
+npm run build
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# 预览构建结果
+npm run preview
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## 🎨 设计特色
 
-### Jekyll Themes
+- 苹果官网风格设计
+- 单页滚动式导航
+- 毛玻璃导航栏效果
+- 深浅背景区块交替
+- 响应式布局
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anlostsheep/anlostsheep.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 📝 内容区块
 
-### Support or Contact
+1. **Hero 区块** - 个人介绍
+2. **Hackintosh 专区** - 黑苹果 EFI 项目展示
+3. **其他项目** - Java/JavaScript 项目
+4. **技能栈** - 技术领域展示
+5. **联系方式** - GitHub & Email
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 📄 License
+
+MIT License
+
+---
+
+Built with ❤️ by lostsheep
